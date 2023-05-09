@@ -335,8 +335,8 @@ img {vertical-align: middle;
 .imageMenu {
     display: flex;
     justify-content: center; /* Center horizontally */
-    max-width: 40%; /* Ensure the image doesn't exceed its container */
-  max-height: 100%; /* Ensure the image doesn't exceed its container */
+    max-width: 50%; /* Ensure the image doesn't exceed its container */
+  max-height: 80%; /* Ensure the image doesn't exceed its container */
     border-radius: 5px; /* Apply rounded corners to the image */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to the image */
   }
